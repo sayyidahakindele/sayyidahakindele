@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi there 👋 I'm Doyinsola Sayyidah Akindele, a passionate software developer with an interest in web/mobile applications and embedded systems
+📫 How to reach me: akindelesayyidah@gmail.com
 
 <!--
 **sayyidahakindele/sayyidahakindele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
