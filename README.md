@@ -1,4 +1,5 @@
 Hi there 👋 I'm Doyinsola Sayyidah Akindele, a passionate software developer with an interest in web/mobile applications and embedded systems
+
 📫 How to reach me: akindelesayyidah@gmail.com
 
 <!--
